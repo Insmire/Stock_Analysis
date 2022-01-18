@@ -1,6 +1,6 @@
 <!-- Overview of Project: Explain the purpose of this analysis. -->
 # Overview
-The purpose of this project is to refactor the AllStocksAnalysis subroutine in MS Excel Visual Basics for Application (VBA) with subroutine AllStocksAnalysisRefactored in order to execute 2017 and 2018 stock analysis more efficientely. Same data is utilized in AllStocksAnalysis as in AllStocksAnalysisRefactored. Due to the nature of VBA running all past saved codes regardless of any present editions, codes of AllStocksAnalysisRefactored are created and edited on VSCode prior to running, and especially saving, on VBA.
+The purpose of this project is to refactor the AllStocksAnalysis subroutine in MS Excel Visual Basics for Application (VBA) with subroutine AllStocksAnalysisRefactored in order to execute 2017 and 2018 stock analysis more efficientely. Same data is utilized in AllStocksAnalysis as in AllStocksAnalysisRefactored. Due to the nature of VBA running all past saved codes regardless of any present editions, all refactored code is created and edited on VSCode prior to running, and especially saving, on VBA.
 
 <!-- Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script. -->
 # Results
